@@ -9,3 +9,6 @@ Python packages needed:
 - opencv-python
 - dlib
 - scipy
+
+Download this file, rename it as "landmark_predictor.dat" and add it to the "resources" folder:
+- http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
